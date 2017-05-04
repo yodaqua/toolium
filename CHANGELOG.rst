@@ -1,6 +1,14 @@
 Toolium Changelog
 =================
 
+v1.2.6
+------
+
+*Release date: In development*
+
+- Fix visual screenshot filename error when behave feature name contains :
+- Add a config property 'explicitly_wait' in [Driver] section to set the default timeout used in *wait_until* methods
+
 v1.2.5
 ------
 
